@@ -1,0 +1,5 @@
+Debugger using terminal : 
+
+g++ -g app.cpp
+
+gdb a.out
